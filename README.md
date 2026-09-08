@@ -51,12 +51,6 @@ An autonomous robot using sensor feedback and PID control to follow a path accur
 
 **Tech:** C++ • Arduino • PID • Sensors • Motor Control
 
-### 🦾 Autonomous Robotics
-
-Exploring robots capable of sensing their environment, making decisions, and interacting with the physical world.
-
-**Tech:** ESP32 • Sensors • Motors • Embedded C++
-
 ---
 
 ## 📊 GitHub Stats
